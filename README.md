@@ -10,4 +10,4 @@ Este proyecto es una aplicación web interactiva desarrollada en Python utilizan
 - **Gráficos Interactivos:** Opción de renderizar histogramas de distribución de precios y gráficos de dispersión (Precio vs Kilometraje) mediante casillas de verificación.
 
 ## Enlace de la Aplicación Desplegada
-[Ver Aplicación en Render](https://TU_URL_://onrender.com)
+[Ver Aplicación en Render](https://proyecto-sprint-7-rpx1.onrender.com/)
