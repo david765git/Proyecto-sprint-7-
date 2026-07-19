@@ -13,7 +13,7 @@ st.markdown("---")
 # 2. carga y limpieza de datos 
 @st.cache_data 
 def load_and_clean_data():
-    df = pd.read_csv(r"C:\Users\DAVID\Downloads\vehicles_us.csv")
+    df = pd.read_csv("vehicles_us.csv")
     df.columns = df.columns.str.lower()
     
     # Relleno inteligente usando agrupaciones por modelo
